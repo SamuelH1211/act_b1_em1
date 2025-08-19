@@ -32,9 +32,7 @@ public class Estudiante {
     public void setEdad(int edad) {
         this.edad = edad;
     }
-    public void setPromedio(double promedio) {
-        this.promedio = promedio;
-    }
+   
 
     // Nota: En el setter de edad, validar que sea mayor o igual a 0
     public int setEdad() {
